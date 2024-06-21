@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ahmadrezarce
-- 👀 I’m interested in develop application
+- 👋 Hi, I’m Seyed Ahmadreza Sadeghi
+- 👀 I’m interested in develop applications
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me => seyedahmadrezasadeghi@gmail.com
